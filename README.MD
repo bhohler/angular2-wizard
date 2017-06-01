@@ -1,8 +1,4 @@
-# angular2-wizard
-[![npm version](https://badge.fury.io/js/angular2-wizard.svg)](https://badge.fury.io/js/angular2-wizard)
-[![Build Status](https://travis-ci.org/maiyaporn/angular2-wizard.svg?branch=master)](https://travis-ci.org/maiyaporn/angular2-wizard)
-[![Code Climate](https://codeclimate.com/github/maiyaporn/angular2-wizard/badges/gpa.svg)](https://codeclimate.com/github/maiyaporn/angular2-wizard)
-[![Test Coverage](https://codeclimate.com/github/maiyaporn/angular2-wizard/badges/coverage.svg)](https://codeclimate.com/github/maiyaporn/angular2-wizard/coverage)
+# dsg-angular2-wizard
 
 This is an Angular2 Form Wizard component. Just like any form wizard. You can define steps and control how each step works. You can enable/disable navigation button based on validity of the current step. Currently, the component only support basic functionality. More features will come later.
 
@@ -17,10 +13,10 @@ https://maiyaporn.github.io/angular2-wizard-demo/
 
 ## Installation
 
-After installing the above dependencies, install angular2-wizard via:
+After installing the above dependencies, install dsg-angular2-wizard via:
 
 ```bash
-$ npm install angular2-wizard --save
+$ npm install dsg-angular2-wizard --save
 ```
 
 ## How to use the component
@@ -33,7 +29,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Import your library
-import { FormWizardModule } from 'angular2-wizard';
+import { FormWizardModule } from 'dsg-angular2-wizard';
 
 @NgModule({
   declarations: [

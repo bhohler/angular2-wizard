@@ -1,5 +1,5 @@
 {
-  "name": "angular2-wizard",
+  "name": "dsg-angular2-wizard",
   "version": "0.2.2",
   "scripts": {
     "build": "ngc -p tsconfig.json",
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maiyaporn/angular2-wizard"
+    "url": "https://github.com/bhohler/dsg-angular2-wizard"
   },
   "author": {
-    "name": "Maiyaporn Phanich",
-    "email": "p.maiyaporn@gmail.com"
+    "name": "Brett Hohler",
+    "email": ""
   },
   "keywords": [
     "angular2-wizard",
